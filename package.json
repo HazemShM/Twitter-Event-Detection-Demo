@@ -1,0 +1,46 @@
+{
+  "name": "twitter-event-detection",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.11.2",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.2.3",
+    "@mui/styles": "^5.15.18",
+    "axios": "^1.7.1",
+    "flask": "^0.2.10",
+    "install": "^0.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "tsparticles-slim": "^2.12.0",
+    "react-tsparticles": "^2.9.3",
+    "tsparticles": "^2.9.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
