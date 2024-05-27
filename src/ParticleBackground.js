@@ -84,7 +84,29 @@ const ParticleBackground = () => {
         opacity: 0, 
       },
       {
-        position: { x: 50, y: 85 },
+        position: { x: 50, y: 40 },
+        size: { radius: 50, random: false },
+        opacity: 0, 
+      },
+      {
+        position: { x: 40, y: 20 },
+        size: { radius: 50, random: false },
+        opacity: 0, 
+      },
+      {
+        position: { x: 40, y: 40 },
+        size: { radius: 50, random: false },
+        opacity: 0, 
+      },
+      {
+        position: { x: 60, y: 20 },
+        size: { radius: 50, random: false },
+        opacity: 0, 
+      },
+     
+     
+      {
+        position: { x: 60, y: 40 },
         size: { radius: 50, random: false },
         opacity: 0, 
       },
