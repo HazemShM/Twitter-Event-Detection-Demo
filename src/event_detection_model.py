@@ -14,9 +14,9 @@ import pandas as pd
 # from langdetect import detect
 import nltk
 
-# nltk.download('stopwords')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('wordnet')
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
 from nltk.corpus import stopwords
 from nltk.tokenize import TweetTokenizer
